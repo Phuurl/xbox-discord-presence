@@ -1,0 +1,6 @@
+---
+discord_client_id: "123456"
+xbox_api_key: "abc123"
+xbox_profile_name: "your-xbox-gamertag"
+xbox_target_profile: "12345"
+xbox_type: "Xbox One X"
